@@ -38,7 +38,9 @@
     
     <categories>
       
-      <category>技术，Opencv</category>
+      <category>图像处理</category>
+      
+      <category>Opencv</category>
       
     </categories>
     
@@ -47,7 +49,7 @@
       
       <tag>文字检测</tag>
       
-      <tag>opencv</tag>
+      <tag>Opencv</tag>
       
     </tags>
     
