@@ -4,6 +4,31 @@
   
   
   <entry>
+    <title>为何写博客</title>
+    <link href="/2021/03/27/%E4%B8%BA%E4%BD%95%E5%86%99%E5%8D%9A%E5%AE%A2/"/>
+    <url>/2021/03/27/%E4%B8%BA%E4%BD%95%E5%86%99%E5%8D%9A%E5%AE%A2/</url>
+    
+    <content type="html"><![CDATA[<p>书写的过程是思考的过程，将自己的思考变成文字。<br>学着分享知识，哪怕这个知识自己觉得微不足道，或许也能帮助到别的人。<br>拓宽自己的领域，不仅仅局限于技术，也可以写生活，经济，社会等。</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>随笔</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>写作</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>文字检测中常用的opencv函数</title>
     <link href="/2021/03/27/%E6%96%87%E5%AD%97%E6%A3%80%E6%B5%8B%E7%AE%97%E6%B3%95%E5%B8%B8%E7%94%A8%E7%9A%84opencv%E5%87%BD%E6%95%B0/"/>
     <url>/2021/03/27/%E6%96%87%E5%AD%97%E6%A3%80%E6%B5%8B%E7%AE%97%E6%B3%95%E5%B8%B8%E7%94%A8%E7%9A%84opencv%E5%87%BD%E6%95%B0/</url>
@@ -25,31 +50,6 @@
       <tag>文字检测</tag>
       
       <tag>Opencv</tag>
-      
-    </tags>
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>为何写博客</title>
-    <link href="/2021/03/27/%E4%B8%BA%E4%BD%95%E5%86%99%E5%8D%9A%E5%AE%A2/"/>
-    <url>/2021/03/27/%E4%B8%BA%E4%BD%95%E5%86%99%E5%8D%9A%E5%AE%A2/</url>
-    
-    <content type="html"><![CDATA[<p>书写的过程是思考的过程，将自己的思考变成文字。<br>学着分享知识，哪怕这个知识自己觉得微不足道，或许也能帮助到别的人。<br>拓宽自己的领域，不仅仅局限于技术，也可以写生活，经济，社会等。</p>]]></content>
-    
-    
-    <categories>
-      
-      <category>随笔</category>
-      
-    </categories>
-    
-    
-    <tags>
-      
-      <tag>写作</tag>
       
     </tags>
     
